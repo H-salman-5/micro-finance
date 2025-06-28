@@ -1,0 +1,5 @@
+principle = int(input("what is the initial amount you borrowed")))
+time = int(input("what is the duration")))
+rate = int(input("what is annual intrat rate)))
+simple interest = principle*time*rate\100
+print("your simple interest = ",simple interest)
